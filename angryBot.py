@@ -5,7 +5,7 @@ import json
 import emojis
 
 # Credentials
-TOKEN = 'MTAzOTAxMzAzMTUzNzAyNTA3NA.G6J-RY.0VFbwKccQI9jg3ahv4mmXaXDLjL5oEV_Md_eVA'
+TOKEN = ''
 # Create bot
 #bot = commands.Bot(command_prefix="!")
 
